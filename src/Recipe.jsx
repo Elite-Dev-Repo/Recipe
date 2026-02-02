@@ -28,7 +28,7 @@ function Recipe() {
         onClick={() => navigate("/")}
         className="bg-sky-500 text-white p-3 hover:bg-sky-600 w-full"
       >
-        ← Go Back
+        ← Go Back.
       </button>
 
       <div className="max-w-4xl mx-auto p-6 bg-white shadow-lg rounded-xl border border-gray-100 my-8">
